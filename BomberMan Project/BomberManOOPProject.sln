@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BomberManOOPProject", "BomberManOOPProject\BomberManOOPProject.csproj", "{4240D78F-9B98-4450-A364-7A833E2ACAD4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://lisasimpson.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BomberManOOPProject\\BomberManOOPProject.csproj
+		SccProjectName1 = BomberManOOPProject
+		SccLocalPath1 = BomberManOOPProject
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4240D78F-9B98-4450-A364-7A833E2ACAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4240D78F-9B98-4450-A364-7A833E2ACAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4240D78F-9B98-4450-A364-7A833E2ACAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4240D78F-9B98-4450-A364-7A833E2ACAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

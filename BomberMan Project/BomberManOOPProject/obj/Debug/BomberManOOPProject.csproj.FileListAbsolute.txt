@@ -1,0 +1,12 @@
+C:\Users\Sveja\Desktop\BomberMan Project\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe.config
+C:\Users\Sveja\Desktop\BomberMan Project\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe
+C:\Users\Sveja\Desktop\BomberMan Project\BomberManOOPProject\bin\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Desktop\BomberMan Project\BomberManOOPProject\obj\Debug\BomberManOOPProject.csprojResolveAssemblyReference.cache
+C:\Users\Sveja\Desktop\BomberMan Project\BomberManOOPProject\obj\Debug\BomberManOOPProject.exe
+C:\Users\Sveja\Desktop\BomberMan Project\BomberManOOPProject\obj\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Desktop\my stuff\BomberMan Project\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe.config
+C:\Users\Sveja\Desktop\my stuff\BomberMan Project\BomberManOOPProject\obj\Debug\BomberManOOPProject.exe
+C:\Users\Sveja\Desktop\my stuff\BomberMan Project\BomberManOOPProject\obj\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Desktop\my stuff\BomberMan Project\BomberManOOPProject\bin\Debug\BomberManOOPProject.exe
+C:\Users\Sveja\Desktop\my stuff\BomberMan Project\BomberManOOPProject\bin\Debug\BomberManOOPProject.pdb
+C:\Users\Sveja\Desktop\my stuff\BomberMan Project\BomberManOOPProject\obj\Debug\BomberManOOPProject.csprojResolveAssemblyReference.cache
